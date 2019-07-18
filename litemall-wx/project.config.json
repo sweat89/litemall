@@ -10,8 +10,10 @@
 	},
 	"compileType": "miniprogram",
 	"libVersion": "2.4.0",
-	"appid": "wxa5b486c6b918ecfb",
+	"appid": "wxd47f874c61ca7626",
 	"projectname": "litemall-wx",
+	"simulatorType": "wechat",
+	"simulatorPluginLibVersion": {},
 	"condition": {
 		"search": {
 			"current": -1,
